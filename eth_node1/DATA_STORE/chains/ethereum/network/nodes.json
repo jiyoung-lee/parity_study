@@ -2,7 +2,9 @@
   "nodes": [
     {
       "url": "enode://44fc55e78cc7fb8436f9986b1f438a05474c2e2a7c75f92496dbc2dd3b2821840ba2a1ce421edba0d900517b13206cfd3bf2b64c4145da51f78294505abd1cc1@127.0.0.1:30304",
-      "last_contact": null
+      "last_contact": {
+        "failure": 1572316561
+      }
     }
   ]
 }

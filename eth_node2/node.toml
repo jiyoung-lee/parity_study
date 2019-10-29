@@ -18,7 +18,7 @@ port = 8456
 [account]
 password = ["node.pwds"]
 [mining]
-engine_signer = "0x8c3ded10cac311e1ec651abc30dfee896c7d9e2d" # 마이닝 account POA 이기 때문에 chain.json에서 validator에 명시된 account를 넣는다. 마이닝을 하지 않는 노드라면 해당 부분 #으로 주석처리
+#engine_signer = "" # 마이닝 account POA 이기 때문에 chain.json에서 validator에 명시된 account를 넣는다. 마이닝을 하지 않는 노드라면 해당 부분 #으로 주석처리
 reseal_on_txs = "none"
 [dapps]
 disable = false
